@@ -1,4 +1,6 @@
-# JavaFX application with jpackage to native executable
+### Sample application JavaFX application with jpackage to native executable
+
+
 
 Edit paths in pom.xml for jpackage.path and javafx.mods.path to your local JDK and javafx.mods path or setup environment variables.
 Execute maven goal to create native executable:
