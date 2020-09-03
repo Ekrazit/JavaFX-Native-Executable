@@ -1,4 +1,4 @@
-### Sample application JavaFX application with jpackage to native executable
+### Sample JavaFX application with jpackage to native executable
 
 
 
