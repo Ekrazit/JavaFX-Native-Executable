@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TextField fx:id="url" prefHeight="27.0" prefWidth="952.0" promptText="https://publicobject.com/helloworld.txt" text="https://publicobject.com/helloworld.txt" />
+      <Button fx:id="button" mnemonicParsing="false" onAction="#click" text="Button" />
+      <TextArea fx:id="tarea" prefHeight="551.0" prefWidth="775.0" />
+   </children>
+</VBox>
